@@ -1,0 +1,15 @@
+# OpenClaw config (contains API keys)
+openclaw.json
+*.env
+
+# Memory files (personal data)
+memory/*.md
+!memory/.gitkeep
+
+# Content output
+content/*.md
+!content/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
