@@ -41,7 +41,7 @@ bash <(curl -sL https://raw.githubusercontent.com/你的用户名/aigocode-start
 或者手动：
 
 ```bash
-git clone https://github.com/你的用户名/aigocode-starter-kit.git my-assistant
+git clone https://github.com/sit-in/-aigocode-openclaw-start.git my-assistant
 cd my-assistant
 bash setup.sh
 ```
